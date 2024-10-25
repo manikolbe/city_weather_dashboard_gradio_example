@@ -1,3 +1,4 @@
-streamlit
+gradio
+requests
 pandas
-matplotlib
+altair
