@@ -1,7 +1,7 @@
 # Real-Time Weather Dashboard
 
 This project is a real-time weather dashboard built using Gradio, Python, and Altair. It provides weather updates and visualizes temperature, humidity, and wind speed trends for a specified city over a given forecast duration.
-![Weather Dashboard Screenshot](Screenshot.png)
+<img src="Screenshot.png" alt="Weather Dashboard Screenshot" style="width: 100%;"/>
 
 ## Features
 
